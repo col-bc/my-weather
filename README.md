@@ -68,7 +68,6 @@ Follow these steps to set up and run the weather application on your local machi
     ```
 4.  **Start the development server**. This tells Node that you want to run the dev script, which will start the development server and make your web app available on your computer's web browser.
 
-    Figure 3: Start the development server
     ```bash
     npm run dev
     ```
